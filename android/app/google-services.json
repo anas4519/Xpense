@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830135146591",
+    "project_id": "xpense-d722b",
+    "storage_bucket": "xpense-d722b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830135146591:android:ab6e43f923954e94c2e3ea",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvI5bN4cBIYdnvmQagrfub62z9Ob6eakA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
